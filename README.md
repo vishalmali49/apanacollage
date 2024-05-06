@@ -1,2 +1,2 @@
 # apanacollage
-demo for git 
+demo for git .
